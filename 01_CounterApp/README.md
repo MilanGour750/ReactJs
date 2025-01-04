@@ -22,7 +22,7 @@ Before running the project, ensure you have the following installed:
 
    ```bash
    git clone https://github.com/your-username/react-counter-app.git
-   cd react-counter-app
+   cd <name_of_project>
    ```
 
 2. Install dependencies:
