@@ -21,9 +21,14 @@ function App() {
             </div>
           </div>
         </div>
+          <button className=' flex flex-wrap items-center text-center text-base px-3 mt-2 bg-blue-400 text-black rounded-sm mx-auto hover:bg-lime-300 cursor-pointer'>Click!</button>
+      </div>
+      <div className='text-center my-4 text-gray-950'>
+        <p className='text-white md:text-amber-500 sm:text-green-500 '>This is a test paragraph.</p>
+      </div>
       </div>
 
-      </div>
+      
     </>
   )
 }
